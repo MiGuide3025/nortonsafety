@@ -1,3 +1,6 @@
-schlafenszeit = "18-9"
-sperren = False
-passwort = 1234
+{
+  "schlafenszeit": "18-9",
+  "sperren": false,
+  "passwort": 1234
+}
+
