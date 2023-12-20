@@ -2,5 +2,6 @@
   "schlafenszeit": "22:00-7:00",
   "sperren": "true",
   "passwort": "4321"
+  "timeunlocked": "600"
 }
 
