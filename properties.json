@@ -1,6 +1,6 @@
 {
   "schlafenszeit": "22:00-7:00",
-  "sperren": "true",
+  "sperren": "false",
   "passwort": "1234"
 }
 
